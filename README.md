@@ -47,7 +47,8 @@ The goal of this assignment is to create a 3-page responsive website using **Boo
 ## 🧱 Folder Structure
 ## 📂 Folder Structure](image.png)
 
-![Folder Structure](images/k1k.png)
+![Folder Structure](images/structure.png)
+
 
 
 
@@ -93,5 +94,10 @@ This project fulfills the following assignment requirements:
 
 ---
 
-## © 2025 Markus Kaprio  
+                        - TAPAHTUMALOKI -
+
+
+
+
+## © 2025 Markus "NorthFox" Kaprio  
 Made with 💻 + ☕ in Lapland  
