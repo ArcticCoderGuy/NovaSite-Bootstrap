@@ -45,7 +45,9 @@ The goal of this assignment is to create a 3-page responsive website using **Boo
 ---
 
 ## 🧱 Folder Structure
+## 📂 Folder Structure
 
+![Folder Structure](img/folder-structure.png)
 
 
 
